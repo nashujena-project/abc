@@ -2,7 +2,10 @@ import React from 'react'
 
 const Gallery = () => {
   return (
-    <div>Gallery</div>
+    <div>Gallery
+      <h1>Hello World</h1>
+    </div>
+  
   )
 }
 
